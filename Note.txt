@@ -1,0 +1,7 @@
+Please follow this step by step 
+
+1. type on terminal "npm install"
+2. type on terminal "npm start"
+3. if you find error, Please follow this
+3.1  type on terminal "npm install webpack@4.42.0 --save-dev"
+3.2  type on terminal "npm start"
